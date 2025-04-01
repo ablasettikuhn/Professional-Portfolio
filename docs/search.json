@@ -1,0 +1,163 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to My Professional Portfolio",
+    "section": "",
+    "text": "Hi, I’m Alexandra Blasetti Kuhn! Data Analytics and Reporting are the cross-cutting skills I have always applied throughout my professional career.\nIn this portfolio site you will find how I’ve applied my analytical thinking, detail-oriented and problem-solving skills in different fields: Non-Profits, Physical Exercise in Health Care, Conditioning & Performance.\nInterested in learning more about my past projects? Additional details can be provided upon request, subject to confidentiality agreements. Visit the about me section!"
+  },
+  {
+    "objectID": "index.html#featured-projects",
+    "href": "index.html#featured-projects",
+    "title": "Welcome to My Professional Portfolio",
+    "section": "Featured Projects",
+    "text": "Featured Projects\n\nNBA Denver Nuggets Shots\nAn analysis about the effect of minutes left, seconds left, and distance shot on shot conversion (efficiency rate) from 2015 to 2023. Highlight: What’s all the controversy about long-distance shots trend in NBA?\nView Report View Dashboard"
+  },
+  {
+    "objectID": "index.html#reports-on-health-care-improvement-through-physical-exercise-prescription-physical-conditioning-and-performance-follow-up-through-standarized-tests",
+    "href": "index.html#reports-on-health-care-improvement-through-physical-exercise-prescription-physical-conditioning-and-performance-follow-up-through-standarized-tests",
+    "title": "Welcome to My Professional Portfolio",
+    "section": "Reports on Health care improvement through physical exercise prescription, physical conditioning and performance follow-up through standarized tests",
+    "text": "Reports on Health care improvement through physical exercise prescription, physical conditioning and performance follow-up through standarized tests\nProfessional reports for individuals, physicians, physical therapists and stakeholders. The content is confidential and can’t be shared. However, a template without sensitive information can be provided upon request, subject to confidentiality agreements.\nRequest info"
+  },
+  {
+    "objectID": "index.html#reports-on-initiatives-performance-survey-analysis-youth-mental-wellness-and-communications.",
+    "href": "index.html#reports-on-initiatives-performance-survey-analysis-youth-mental-wellness-and-communications.",
+    "title": "Welcome to My Professional Portfolio",
+    "section": "Reports on Initiatives Performance, Survey Analysis, Youth Mental Wellness and Communications.",
+    "text": "Reports on Initiatives Performance, Survey Analysis, Youth Mental Wellness and Communications.\nProfessional reports for the team, board and stakeholders. The content is confidential and can’t be shared. However, a template without sensitive information can be provided upon request, subject to confidentiality agreements.\nRequest info"
+  },
+  {
+    "objectID": "index.html#communications-platform-metrics-dashboard",
+    "href": "index.html#communications-platform-metrics-dashboard",
+    "title": "Welcome to My Professional Portfolio",
+    "section": "Communications Platform Metrics Dashboard",
+    "text": "Communications Platform Metrics Dashboard\nThis project is a template dashboard to monitor in real-time the communication platforms that the organization uses. Long-term follow up to better understand the improvements through the years.\nView Dashboard"
+  },
+  {
+    "objectID": "index.html#follow-up-project-r-equivalent-to-sql-queries",
+    "href": "index.html#follow-up-project-r-equivalent-to-sql-queries",
+    "title": "Welcome to My Professional Portfolio",
+    "section": "Follow-up project: R equivalent to SQL queries",
+    "text": "Follow-up project: R equivalent to SQL queries\nUsing R as an SQL alternative in a special membership follow-up project.\nComing soon"
+  },
+  {
+    "objectID": "index.html#website-management-maintenance",
+    "href": "index.html#website-management-maintenance",
+    "title": "Welcome to My Professional Portfolio",
+    "section": "Website Management & maintenance",
+    "text": "Website Management & maintenance\nSkills: HTML, basic CSS, basic SEO.\nMEPEC Website"
+  },
+  {
+    "objectID": "index.html#content-creation-for-organizational-monthly-newsletter",
+    "href": "index.html#content-creation-for-organizational-monthly-newsletter",
+    "title": "Welcome to My Professional Portfolio",
+    "section": "Content creation for Organizational Monthly Newsletter",
+    "text": "Content creation for Organizational Monthly Newsletter\nSkills: Article Writing, Content Creation, Newsletter Design. 2022, 2023 and 2024 editions.\nMEPEC Newsletters"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Alexandra Blasetti Kuhn",
+    "section": "",
+    "text": "Data Analytics & Report Writing in different fields:\n\n\nNon-Profits | Physical Exercise in Health Care & Conditioning\nAnalytical thinking, detail-oriented and problem-solving skills applied in different fields: Non-Profits, Physical Exercise in Health Care, Conditioning & Performance. Data Analytics and Reporting are the cross-cutting skills I have always applied throughout my professional career. I hold a BSc. degree in Physical Education and Exercise Physiology with a strong background in research methodology, statistics, and biomechanics. Early in my career, I worked in exercise prescription applied to chronic diseases and sports physical conditioning: developed performance assessments, quantitative data analysis and reports for individuals, health professionals, and stakeholders. I’m currently developing administrative and management skills, focusing on organizational reporting, data management, and analysis to drive process improvements. Curious, quick learner, and team player, always eager to take on new challenges.\n\n\nEducation\nBachelor of Science – BSc, Physical Education and Exercise Physiology at Universidad Nacional de San Martin – UNSAM. Thesis: “Physical condition and falls prevalence by age range of people over 65 years”.\nBachelor of Education – BEd, Physical Education and Sports at Instituto Dr. Jose Ingenieros – OBRAS\n\n\nCertifications\nGoogle – Data Analytics Professional Certificate Data cleaning, analysis, and visualization with Excel, SQL, R programming, and Tableau.\nEdx Harvard – Data Science with R R Basics, Visualization, Probability, Inference and Modelling, Productivity Tools."
+  },
+  {
+    "objectID": "Google_DA_Capstone_Project.html",
+    "href": "Google_DA_Capstone_Project.html",
+    "title": "Capstone Project: NBA Denver Nuggets Shots",
+    "section": "",
+    "text": "The coach of the team wants to understand the effect of some time and location conditionals on the shot conversion from 2015 to 2023. Specifically, He wants to understand what’s the relationship between the time/location of the shot and the shot conversion from 2015 to 2023.\n\n\n\nWhat’s the relationship between minutes left, seconds left, distance shot and the shot conversion (efficiency rate)? The period of time analyzed was from 2015 to 2023. For domain-specific problems, it is recommended to consult professionals with experience in the field.\n\n\n\nBusiness task: identify if minutes left, seconds left and distance shot are related to the shot conversion (efficiency rate) throughout the years 2015-2023. Visualize the results in an interactive dashboard.\n\n\n\nHypothesis: IF the minutes left, seconds left and distance shot* have an effect on shot conversion, THEN there is a relationship between these conditionals and the efficiency rate. This is the alternative hypothesis (H1), while the null hypothesis (H0) states that there is no relationship between the variables. *these conditionals in the main hypothesis will be evaluated as H1, H2 and H3."
+  },
+  {
+    "objectID": "Google_DA_Capstone_Project.html#introduction",
+    "href": "Google_DA_Capstone_Project.html#introduction",
+    "title": "Capstone Project: NBA Denver Nuggets Shots",
+    "section": "",
+    "text": "The coach of the team wants to understand the effect of some time and location conditionals on the shot conversion from 2015 to 2023. Specifically, He wants to understand what’s the relationship between the time/location of the shot and the shot conversion from 2015 to 2023."
+  },
+  {
+    "objectID": "Google_DA_Capstone_Project.html#problem",
+    "href": "Google_DA_Capstone_Project.html#problem",
+    "title": "Capstone Project: NBA Denver Nuggets Shots",
+    "section": "",
+    "text": "What’s the relationship between minutes left, seconds left, distance shot and the shot conversion (efficiency rate)? The period of time analyzed was from 2015 to 2023. For domain-specific problems, it is recommended to consult professionals with experience in the field."
+  },
+  {
+    "objectID": "Google_DA_Capstone_Project.html#business-task",
+    "href": "Google_DA_Capstone_Project.html#business-task",
+    "title": "Capstone Project: NBA Denver Nuggets Shots",
+    "section": "",
+    "text": "Business task: identify if minutes left, seconds left and distance shot are related to the shot conversion (efficiency rate) throughout the years 2015-2023. Visualize the results in an interactive dashboard."
+  },
+  {
+    "objectID": "Google_DA_Capstone_Project.html#hypothesis",
+    "href": "Google_DA_Capstone_Project.html#hypothesis",
+    "title": "Capstone Project: NBA Denver Nuggets Shots",
+    "section": "",
+    "text": "Hypothesis: IF the minutes left, seconds left and distance shot* have an effect on shot conversion, THEN there is a relationship between these conditionals and the efficiency rate. This is the alternative hypothesis (H1), while the null hypothesis (H0) states that there is no relationship between the variables. *these conditionals in the main hypothesis will be evaluated as H1, H2 and H3."
+  },
+  {
+    "objectID": "Google_DA_Capstone_Project.html#data-sources",
+    "href": "Google_DA_Capstone_Project.html#data-sources",
+    "title": "Capstone Project: NBA Denver Nuggets Shots",
+    "section": "2.1 Data Sources",
+    "text": "2.1 Data Sources\nThe data is provided directly from https://www.nba.com/stats. It is public and accessible in the R package “ISAR”, data in nba_nuggets_shots.\nThe data set contains seven seasons of Denver Nuggets shot data from 2015 to 2023. It follows the ROCCC premises (the data is from a reliable organization, original, comprehensive, current, and cited)\nSource: http://asbcllc.com/nbastatR/reference/teams_shots.html Credits and owner: nba_nuggets_shots, ISAR package, NBA.\n\n\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.1.4     ✔ readr     2.1.5\n✔ forcats   1.0.0     ✔ stringr   1.5.1\n✔ ggplot2   3.5.1     ✔ tibble    3.2.1\n✔ lubridate 1.9.4     ✔ tidyr     1.3.1\n✔ purrr     1.0.2     \n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors"
+  },
+  {
+    "objectID": "Google_DA_Capstone_Project.html#variables-and-objects",
+    "href": "Google_DA_Capstone_Project.html#variables-and-objects",
+    "title": "Capstone Project: NBA Denver Nuggets Shots",
+    "section": "2.2 Variables and objects",
+    "text": "2.2 Variables and objects\nLets have a glimpse(nba_nuggets_shots) of the dataset. Other options are str() and View()\nThe data set has 62,196 rows and 27 columns. It follows the ROCCC premises and is tidy, organized in long format. We are interested in the following variables: yearSeason, minutesRemaining, secondsRemaining, distanceShot, isShotAttempted and isShotMade. We are going to calculate the Efficiency Rate as isShotMade/isShotAttempted and store the result as the variable EffRate without adding it to the original database.\n\nEffRate &lt;- nba_nuggets_shots$isShotMade/nba_nuggets_shots$isShotAttempted\n\nThe main coach and the data analyst agreed that the selected variables are appropriate for exploring the desired relationship, if there is any."
+  },
+  {
+    "objectID": "Google_DA_Capstone_Project.html#data-integrity-and-cleaning",
+    "href": "Google_DA_Capstone_Project.html#data-integrity-and-cleaning",
+    "title": "Capstone Project: NBA Denver Nuggets Shots",
+    "section": "3.1 Data integrity and cleaning",
+    "text": "3.1 Data integrity and cleaning\nNow we are going to check the NA’s values on the database. We are only using 5 variables so we will select() them first and check for NA’s after.\n\nna_check &lt;- nba_nuggets_shots %&gt;% select(yearSeason, minutesRemaining, secondsRemaining, distanceShot, isShotAttempted, isShotMade) %&gt;% is.na() %&gt;% any()\n\nifelse(na_check==TRUE, \"There are NA values in the selected columns.\", \"There are no NA values in the selected columns.\")\n\n[1] \"There are no NA values in the selected columns.\"\n\n\nBefore starting any analysis, let’s explore the objects inside the variables we want to consider. We can use the unique() function on each variable or the distinct() function and the %&gt;%\n\nnba_nuggets_shots %&gt;% distinct(yearSeason)\nunique(nba_nuggets_shots$yearSeason)\nunique(nba_nuggets_shots$minutesRemaining)\nunique(nba_nuggets_shots$secondsRemaining)\nunique(nba_nuggets_shots$distanceShot)\nunique(nba_nuggets_shots$isShotAttempted)\nunique(nba_nuggets_shots$isShotMade)\n\nTo pull out a brief summary of the variables we want to analyze, summary() or skim() functions are both good options. With the skim function we have a visual idea of the data distribution. The Visualizations were also examined with hist() function.\n\nnba_nuggets_shots %&gt;% select(yearSeason, minutesRemaining, secondsRemaining, distanceShot, isShotAttempted, isShotMade) %&gt;% skim()\n\n\nData summary\n\n\nName\nPiped data\n\n\nNumber of rows\n62196\n\n\nNumber of columns\n6\n\n\n_______________________\n\n\n\nColumn type frequency:\n\n\n\nlogical\n2\n\n\nnumeric\n4\n\n\n________________________\n\n\n\nGroup variables\nNone\n\n\n\nVariable type: logical\n\n\n\n\n\n\n\n\n\n\nskim_variable\nn_missing\ncomplete_rate\nmean\ncount\n\n\n\n\nisShotAttempted\n0\n1\n1.00\nTRU: 62196\n\n\nisShotMade\n0\n1\n0.47\nFAL: 33009, TRU: 29187\n\n\n\nVariable type: numeric\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nskim_variable\nn_missing\ncomplete_rate\nmean\nsd\np0\np25\np50\np75\np100\nhist\n\n\n\n\nyearSeason\n0\n1\n2018.94\n2.60\n2015\n2017\n2019\n2021\n2023\n▇▇▅▇▇\n\n\nminutesRemaining\n0\n1\n5.34\n3.46\n0\n2\n5\n8\n12\n▇▅▇▅▅\n\n\nsecondsRemaining\n0\n1\n28.78\n17.46\n0\n14\n29\n44\n59\n▇▇▇▇▇\n\n\ndistanceShot\n0\n1\n12.76\n10.47\n0\n2\n12\n24\n84\n▇▆▁▁▁\n\n\n\n\n\nAfter reviewing and testing the data, we can conclude the data is tidy, organized in long format and there are no NA’s. The EDA-Exploratory data analysis shows that the data does not follow a normal distribution."
+  },
+  {
+    "objectID": "Google_DA_Capstone_Project.html#hypothesis-testing-spearmans-rank-correlation-analysis",
+    "href": "Google_DA_Capstone_Project.html#hypothesis-testing-spearmans-rank-correlation-analysis",
+    "title": "Capstone Project: NBA Denver Nuggets Shots",
+    "section": "4.1 Hypothesis testing: Spearman’s Rank Correlation Analysis",
+    "text": "4.1 Hypothesis testing: Spearman’s Rank Correlation Analysis\nConsidering that the data is NOT normally distributed, H1, H2 and H3 are tested with the Spearman’s Rank Correlation Coefficient.\nH1: IF the minutes left have an effect on shot conversion, THEN there is a relationship between minutes remaining and the efficiency rate. H0: There is no relationship between the variables.\nWe are going to perform the correlation test between minutes remaining and efficiency rate and store the results as H1:\n\nH1 &lt;- cor.test(nba_nuggets_shots$minutesRemaining, EffRate, method = \"spearman\")\n\nWarning in cor.test.default(nba_nuggets_shots$minutesRemaining, EffRate, :\nCannot compute exact p-value with ties\n\nH1\n\n\n    Spearman's rank correlation rho\n\ndata:  nba_nuggets_shots$minutesRemaining and EffRate\nS = 3.9314e+13, p-value = 1.03e-06\nalternative hypothesis: true rho is not equal to 0\nsample estimates:\n       rho \n0.01958973 \n\n\nConclusion H1/H0\nBased on the Spearman’s rank correlation analysis, there is a statistically significant correlation between the variables minutesRemaining and EffRate (rho = 0.0196, p &lt; 0.001). The positive correlation coefficient (rho) suggests a weak positive monotonic relationship between the remaining minutes in a basketball game and the efficiency rate. (warning: correlation does not mean causation).\nThe large test statistic S provides strong evidence against the null hypothesis H0 (S = 3.9314e+13). This means that the observed correlation is unlikely to be due to random chance. We reject H0 and accept H1.\nIn practice, the analysis suggests that the greater the number of remaining minutes in a basketball game, there is a tendency for the efficiency rate to also increase, although the relationship is weak. This information can be valuable for basketball teams and coaches in understanding the dynamics of the game and making strategic decisions based on the remaining time and efficiency rate.\n\n\nH2: IF the seconds left have an effect on shot conversion, THEN there is a relationship between seconds remaining and the efficiency rate. H0: There is no relationship between the variables.\nWe are going to perform the correlation test between seconds remaining and efficiency rate and store the results as H2:\n\nH2 &lt;- cor.test(nba_nuggets_shots$secondsRemaining, EffRate, method = \"spearman\")\n\nWarning in cor.test.default(nba_nuggets_shots$secondsRemaining, EffRate, :\nCannot compute exact p-value with ties\n\nH2\n\n\n    Spearman's rank correlation rho\n\ndata:  nba_nuggets_shots$secondsRemaining and EffRate\nS = 3.9396e+13, p-value = 1.21e-05\nalternative hypothesis: true rho is not equal to 0\nsample estimates:\n       rho \n0.01754498 \n\n\nConclusion H2/H0\nBased on the Spearman’s rank correlation analysis, there is a statistically significant correlation between the variables secondsRemaining and EffRate (rho = 0.0175, p &lt; 0.001). The positive correlation coefficient (rho) suggests a weak positive monotonic relationship between the remaining seconds in a basketball game and the efficiency rate. (warning: correlation does not mean causation).\nThe large test statistic S provides strong evidence against the null hypothesis H0 (S = 3.9396e+13). This means that the observed correlation is unlikely to be due to random chance. We reject H0 and accept H2.\nIn practice, the analysis suggests that the greater the number of remaining seconds in a basketball game, there is a tendency for the efficiency rate to also increase, although the relationship is weak. This information can be valuable for basketball teams and coaches in understanding the dynamics of the game and making strategic decisions based on the remaining time and efficiency rate.\n\n\nH3: IF the distance shot has an effect on shot conversion, THEN there is a relationship between the distance shot and the efficiency rate. H0: There is no relationship between the variables.\nWe are going to perform the correlation test between distance shot and efficiency rate and store the results as H3:\n\nH3 &lt;- cor.test(nba_nuggets_shots$distanceShot, EffRate, method = \"spearman\")\n\nWarning in cor.test.default(nba_nuggets_shots$distanceShot, EffRate, method =\n\"spearman\"): Cannot compute exact p-value with ties\n\nH3\n\n\n    Spearman's rank correlation rho\n\ndata:  nba_nuggets_shots$distanceShot and EffRate\nS = 4.989e+13, p-value &lt; 2.2e-16\nalternative hypothesis: true rho is not equal to 0\nsample estimates:\n      rho \n-0.244173 \n\n\nConclusion H3/H0\nBased on the Spearman’s rank correlation analysis, there is a statistically significant correlation between the variables distanceShot and EffRate (rho = -0.2441, p &lt; 0.001). The positive correlation coefficient (rho) suggests a weak negative monotonic relationship between the distance shot in a basketball game and the efficiency rate. (warning: correlation does not mean causation).\nThe large test statistic S provides strong evidence against the null hypothesis H0 (S = 4.989e+13). This means that the observed correlation is unlikely to be due to random chance. We reject H0 and accept H3.\nIn practice, the analysis suggests that the shorter the distance shot in a basketball game, there is a tendency for the efficiency rate to increase, although the relationship is weak.\n\nNote: Considering the main hypothesis and the correlation coefficient obtained in minutes remaining, seconds remaining and distance shot, we can conclude that although all variables are related to the Efficiency Rate, the distance shot has a higher correlation on the efficiency rate than the other two time conditionals. In the share phase, we will focus the interactive visualization in distance shots and efficiency rate as it’s an important variable that the main coach want to analyze.\n\n\nThis information can be valuable for basketball teams and coaches in understanding the dynamics of the game and making strategic decisions based on the remaining time/location variables of the shot and the efficiency rate."
+  },
+  {
+    "objectID": "Google_DA_Capstone_Project.html#interactive-dashboard-distance-shot-and-efficiency-rate-by-year-2015-2023",
+    "href": "Google_DA_Capstone_Project.html#interactive-dashboard-distance-shot-and-efficiency-rate-by-year-2015-2023",
+    "title": "Capstone Project: NBA Denver Nuggets Shots",
+    "section": "5.1 Interactive Dashboard: Distance shot and efficiency rate by year (2015-2023)",
+    "text": "5.1 Interactive Dashboard: Distance shot and efficiency rate by year (2015-2023)\nThe main coach wants to see the changes throughout the years for further analysis. An Interactive Dashboard was crafted to show the distribution of distance shot and efficiency rate from 2015 to 2023.\n  \n\nAccess the interactive visualization over the years by clicking on the image above or CLICK HERE to access the Interactive Dashboard created with Shiny and hosted on Shinyapps.io."
+  },
+  {
+    "objectID": "Google_DA_Capstone_Project.html#distribution-of-distance-shot-by-efficiency-rate",
+    "href": "Google_DA_Capstone_Project.html#distribution-of-distance-shot-by-efficiency-rate",
+    "title": "Capstone Project: NBA Denver Nuggets Shots",
+    "section": "5.2 Distribution of Distance Shot by Efficiency Rate",
+    "text": "5.2 Distribution of Distance Shot by Efficiency Rate\n\nggplot(nba_nuggets_shots, aes(x = distanceShot, y = isShotMade, fill = isShotMade)) + geom_boxplot() + stat_summary(fun = mean, geom = \"point\", shape = 23, size = 2.5, fill = \"black\", position = position_dodge(width = 0.75)) + scale_fill_manual(values = c(\"#F8766D\", \"lightgreen\")) + labs(x = \"Distance Shot\", y = \"Is Shot Made\", fill = \"Is Shot Made?\") + ggtitle(\"Distribution of Distance Shot by Efficiency Rate\") + theme_minimal() + theme(plot.title = element_text(size = 14, face = \"bold\"))\n\n\n\n\n\n\n\n\n\nThe boxplot above shows the distribution of shot distances based on the efficiency rate. The boxes represent the interquartile range (0.25 to 0.75 percent of the observations), filled in green for shots made and red for shots missed. The vertical line inside the box represents the median (0.50 of the observations). The black diamond represents the mean. The mean for shots missed is below the median and the mean for shots converted is above the median. The means are relatively similar, but the median for shots missed is higher than the median for shots converted, indicating that shots converted tend to be in shorter distances, while shots missed tend to be in longer distances. The black points represent outliers, with more shots missed in long distances, this means few shots converted in super long distances."
+  },
+  {
+    "objectID": "Google_DA_Capstone_Project.html#distribution-of-minutes-left-by-efficiency-rate",
+    "href": "Google_DA_Capstone_Project.html#distribution-of-minutes-left-by-efficiency-rate",
+    "title": "Capstone Project: NBA Denver Nuggets Shots",
+    "section": "5.3 Distribution of Minutes Left by Efficiency Rate",
+    "text": "5.3 Distribution of Minutes Left by Efficiency Rate\n\nggplot(nba_nuggets_shots, aes(x = minutesRemaining, fill = isShotMade)) + geom_bar(stat = \"count\") + scale_fill_manual(values = c(\"#F8766D\", \"lightgreen\")) + labs(x = \"Minutes Remaining\", y = \"Count\", fill = \"Is Shot Made?\") + ggtitle(\"Distribution of Minutes Left by Efficiency Rate\") + theme_minimal() + theme(plot.title = element_text(size = 14, face = \"bold\"))\n\n\n\n\n\n\n\n\n\nThe barplot above shows the distribution of minutes remaining based on the efficiency rate. The bars represent the count of shots converted in green and shots missed in red, based on the minutes left. The first tall bar shows a higher number of shots missed when there is 1 minute left. The last two bars show a smaller number of shots missed when there are 11 minutes left, and no shots when the game quarter starts (12 minutes left)."
+  },
+  {
+    "objectID": "Google_DA_Capstone_Project.html#distribution-of-seconds-left-by-efficiency-rate",
+    "href": "Google_DA_Capstone_Project.html#distribution-of-seconds-left-by-efficiency-rate",
+    "title": "Capstone Project: NBA Denver Nuggets Shots",
+    "section": "5.4 Distribution of Seconds Left by Efficiency Rate",
+    "text": "5.4 Distribution of Seconds Left by Efficiency Rate\n\nggplot(nba_nuggets_shots, aes(x = secondsRemaining, fill = isShotMade)) + geom_bar(stat = \"count\") + scale_fill_manual(values = c(\"#F8766D\", \"lightgreen\")) + labs(x = \"Seconds Remaining\", y = \"Count\", fill = \"Is Shot Made?\") + ggtitle(\"Distribution of Seconds Left by Efficiency Rate\") + theme_minimal() + theme(plot.title = element_text(size = 14, face = \"bold\"))\n\n\n\n\n\n\n\n\n\nThe barplot above shows the distribution of seconds remaining based on the efficiency rate. The bars represent the count of shots converted in green and shots missed in red, based on the seconds left. The first tall bar shows a higher number of shots missed when there are between 1 and 1.5 seconds left. Also, the shots made are higher when there are between 1 and 1.5 seconds left. The last bar shows there are no shots when the game countdown clock starts (60 seconds left)."
+  },
+  {
+    "objectID": "Google_DA_Capstone_Project.html#summary",
+    "href": "Google_DA_Capstone_Project.html#summary",
+    "title": "Capstone Project: NBA Denver Nuggets Shots",
+    "section": "6.1 Summary",
+    "text": "6.1 Summary\nConclusion\n\nThe business task was performed and analyzed based on the problem that the main coach wanted to understand. The relation between minutes left, seconds left, distance shot and Efficiency Rate was successful measured and analyzed.\nThe main hypothesis was confirmed, there is a relationship between minutes left, seconds left, distance shot and the efficiency rate. Although all variables are related to the Efficiency Rate, the distance shot has a higher relationship with the efficiency rate than the other two time conditionals.\nUnderstanding the constraints of the game is a powerful decision-making strategy. Shots effectuated from a smaller distance to the hoop tend to be more effective, this applies to all years. If the coach wants to control more the unexpected conditionals during the game, shorter distance shots with fewer seconds left in the countdown clock is a good strategy. The relationship between minutes remaining is more stable throughout the game, that’s why no matter in which quarter of the game, the strategy of shooting close to the rim and close to zero in the countdown clock is a way to clear out unexpected conditionals.\nThis information can be valuable for all NBA basketball teams and coaches as it can lead to further research. In this particular case study the time/location variables of the shot were analyzed and related to the efficiency rate only.\n\nLong-distance shots trend in NBA: What’s all the controversy about?\nDespite the rise in three-point attempts, efficiency near the basket remained crucial. This highlights modern NBA offensive strategies, where teams aim to maximize scoring efficiency by prioritizing both three-pointers and close-range finishes. Did the Denver Nuggets win the 2023 finals thanks to three-pointers? The insights show that a balanced approach proves to be the winning formula.\nOpen inverstigation lines\n\nAlthough there are exeptions, humans perform better under pressure, and high performance athletes are used to work under pressure. The positioning of opposing players in a short distance to the hoop plus the countdown clock could play a role in the efficiency rate. In this study we focus on controllable time/location conditionals, we do not know what effect an opposing player might have had on these results.\nThe period of time taken was from 2015 to 2023 but the purpose of the coach was not to analyze the years separately. This can be performed as part of a new business task if the main focus changes to identify the differences between 2015 to 2023 seasons.\nIn the share phase, the visualizations were focused on distance shots as it’s an important variable that the main coach can control and train. Dashboards for minutes and seconds remaining can be included as part of a redefinition of the business task."
+  }
+]
